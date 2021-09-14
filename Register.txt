@@ -2,3 +2,6 @@ Welcome to Git Hub
 having two types of repository 
 1.public repository
 2.private repository
+
+for priactice
+thank you

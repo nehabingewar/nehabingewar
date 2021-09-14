@@ -3,7 +3,11 @@ having two types of repository
 1.public repository
 2.private repository
 
+git provide a platform like github
 for priactice
-thank you
+
+thank you.....:-)
+
 
 done my changes
+
